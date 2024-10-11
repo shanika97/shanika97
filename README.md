@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shanika97.github.io/PortfolioShanika/](https://shanika97.github.io/PortfolioShanika/)
 
-- 📫 How to reach me **shanikagamageagm@gmail.com**
+- 📫 How to reach me **shanikagamageagm@gmail.com** / [https://www.linkedin.com/in/shanika-aththatage-312a0b255/](https://www.linkedin.com/in/shanika-aththatage-312a0b255/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19K-r8c5fQQmM2u0e3lbk-L_zyvhFCnV6/view?usp=drive_link](https://drive.google.com/file/d/19K-r8c5fQQmM2u0e3lbk-L_zyvhFCnV6/view?usp=drive_link)
 
