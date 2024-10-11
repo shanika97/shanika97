@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=[https://www.linkedin.com/in/shanika-aththatage](https://www.linkedin.com/in/shanika-aththatage-312a0b255/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanika aththatage" height="30" width="40" /></a>
-[https://www.linkedin.com/in/shanika-aththatage-312a0b255/](https://www.linkedin.com/in/shanika-aththatage-312a0b255/)</p>
+</p>
 
 | ![Shanika's github stats](https://github-readme-stats.vercel.app/api?username=shanika97&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanika97&theme=tokyonight) |
 | --- | --- |
