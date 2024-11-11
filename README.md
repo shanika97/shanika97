@@ -25,9 +25,9 @@
 <a href=[https://www.linkedin.com/in/shanika-aththatage](https://www.linkedin.com/in/shanika-aththatage-312a0b255/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanika aththatage" height="30" width="40" /></a>
 </p>
 
-| ![Shanika's github stats](https://github-readme-stats.vercel.app/api?username=shanika97&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanika97&theme=tokyonight) |
+| ![Shanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanika97&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats-two-rho.vercel.app?user=shanika97&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanika97&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shanika97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanika97&layout=donut-vertical&theme=tokyonight). | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shanika97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <h3 align="left">Languages and Tools:</h3>
